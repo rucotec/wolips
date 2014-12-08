@@ -6,6 +6,10 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/org.objectstyle.wolips.eomodeler"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/org.objectstyle.wolips.eomodeler.core"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/org.objectstyle.wolips.eomodeler.factories"/>
+<<<<<<< HEAD
 	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar"/>
+=======
+	<classpathentry kind="var" path="ECLIPSE_HOME/plugins/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar"/>
+>>>>>>> 5c36e597eb88d381c7338142362f3101f90ea2d0
 	<classpathentry kind="output" path="bin"/>
 </classpath>
